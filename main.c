@@ -14,9 +14,9 @@
 # include <stdlib.h>
 # include <pthread.h>
 
-int MATRIXA[10][10];
-int MATRIXB[10][10];
-int MATRIXC[10][10];
+int MATRIXA[4][4];
+int MATRIXB[4][4];
+int MATRIXC[4][4];
 
 int rows, columns;
 
